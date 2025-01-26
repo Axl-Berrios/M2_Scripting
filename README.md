@@ -48,3 +48,11 @@ El programa realiza las siguientes operaciones:
 ```bash
 python calculo_raiz.py
 
+
+### Notas sobre el archivo `README.md`:
+
+- **Estructura clara**: El archivo está estructurado en secciones que facilitan la lectura y comprensión.
+- **Código comentado**: Se incluyen fragmentos de código para ilustrar cada paso del proceso.
+- **Instrucciones de ejecución**: Se proporciona una guía sobre cómo ejecutar el código, lo que es útil para otros usuarios que deseen replicar el análisis.
+
+Puedes ajustar el contenido según tus necesidades específicas o agregar más detalles si es necesario.
